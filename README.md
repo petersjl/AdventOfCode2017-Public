@@ -7,3 +7,4 @@ Calendar:
 - Day 3: Spiral Memory
 - Day 4: High-Entropy Passphrases
 - Day 5: A Maze of Twisty Trampolines, All Alike
+- Day 6: Memory Reallocation
