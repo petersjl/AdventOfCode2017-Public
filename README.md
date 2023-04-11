@@ -1,1 +1,4 @@
-# AdventOfCode2017-Public
+# AdventOfCode2017
+The advent of code challenges for 2017
+
+Calendar:
