@@ -5,3 +5,4 @@ Calendar:
 - Day 1: Inverse Captcha
 - Day 2: Corruption Checksum
 - Day 3: Spiral Memory
+- Day 4: High-Entropy Passphrases
