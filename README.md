@@ -8,3 +8,5 @@ Calendar:
 - Day 4: High-Entropy Passphrases
 - Day 5: A Maze of Twisty Trampolines, All Alike
 - Day 6: Memory Reallocation
+- Day 7: Recursive Circus
+- Day 8: I Heard You Like Registers
