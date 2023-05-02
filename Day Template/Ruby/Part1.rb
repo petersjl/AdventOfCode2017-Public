@@ -7,19 +7,19 @@ def main(test = false)
     if test
         run_tests()
     else
-        puts "#{solve_puzzle()}"
+        solution = solve_puzzle(Utils.read(File.join(File.dirname(__FILE__), "../input.txt"), true))
+        puts "#{solution}"
     end
     end_time = Time.now
     end_time = Time.now
     puts "Ran in #{end_time - start_time} seconds"
 end
 
-def parse_input(str)
-    return str
+def parse_input(input)
+    return input
 end
 
-def solve_puzzle(input = nil)
-    if not input then input = Utils.read(File.join(File.dirname(__FILE__), "../input.txt")) end
+def solve_puzzle(input)
     input = parse_input(input)
     return input
 end
