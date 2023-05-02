@@ -12,3 +12,5 @@ Calendar:
 - Day 8: I Heard You Like Registers
 - Day 9: Stream Processing
 - Day 10: Knot Hash
+- Day 11: Hex Ed
+- Day 12: Digital Plumber
