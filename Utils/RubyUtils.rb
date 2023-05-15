@@ -4,10 +4,6 @@ class Utils
     end
 end
 
-class String
-    def String.chars() self.split('') end
-end
-
 class Array
 
     # Find the first element in the array that causes the block to return true skipping {skip} elements.
