@@ -16,3 +16,4 @@ Calendar:
 - Day 12: Digital Plumber
 - Day 13: Packet Scanners
 - Day 14: Disk Defragmentation
+- Day 15: Dueling Generators
