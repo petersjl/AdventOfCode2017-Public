@@ -17,3 +17,4 @@ Calendar:
 - Day 13: Packet Scanners
 - Day 14: Disk Defragmentation
 - Day 15: Dueling Generators
+- Day 16: Permutation Promenade
