@@ -19,3 +19,4 @@ Calendar:
 - Day 15: Dueling Generators
 - Day 16: Permutation Promenade
 - Day 17: Spinlock
+- Day 18: Duet
