@@ -20,3 +20,4 @@ Calendar:
 - Day 16: Permutation Promenade
 - Day 17: Spinlock
 - Day 18: Duet
+- Day 19: A Series of Tubes
